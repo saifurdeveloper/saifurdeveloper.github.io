@@ -1,33 +1,32 @@
-# saziddeveloper.github.io
+# saifurdeveloper.github.io
 MY PORTFOLIO WEBSITE
 
-# Ashaduzzaman Sazid - Developer
+# Md. Saifur Rahman - Developer
 
-Assalamualalikum(Peace be upon you). 👋 Hi, I'm Ashaduzzaman Sazid, a dedicated developer with a passion for creating responsive and innovative softwares/website.
-I specialize in utilizing Tailwind and React.js to craft seamless user experiences.
-My expertise extends to proficiently handling backend operations using MongoDB.
+Assalamualalikum(Peace be upon you). 👋 Hi, I'm Saifur Rahman. I'm a WordPress Developer and a Shopify & Wix E-commerce Developer, focused on building dynamic websites and online stores that help businesses thrive.
 
 ## Skills
-- Frontend: HTML, CSS, Javascript, Node.js, Tailwind, React.js, Next.js, Redux
-- Backend: MongoDB, JWT, Express.js, RDBMS, SQL
-- Other: Typescript, PRISMA, GraphQL
-- Basic Problem Solving
-- Proficient in English (Conversation and Writing)
+- HTML
+- CSS
+- Javascript
+- PHP
+- Average Typing
 - Prompt Engineering
 
 ## What I do
-- Frontend: Develop Responsive Websites, Build Interactive User Interfaces, Implement Client-Side Routing, Handle DOM Manipulation & Event Handling
-- Backend: Develop RESTful APIs, Implement Authentication and Authorization, Database Management
-- Other: Integrate Type Safety with TypeScript, Leverage ORM for Database Interaction, Implement GraphQL APIs
+- WordPress Development
+- Shopify & Wix E-commerce Development
+- WordPress Theme Customize
+- Optimization & Performance EnhancementOptimization & Performance Enhancement
   
 ## Hire Me
 Looking for a skilled developer for your next project? Look no further!
 I am ready to bring your ideas to life. Let's collaborate to fulfill your dreams.
 
 ## Contact
-📧 Email: [saziddeveloper@gmail.com](mailto:saziddeveloper@gmail.com)  
-🌐 Portfolio: [saziddeveloper.github.io](https://saziddeveloper.github.io)  
-👩‍💻 GitHub: [github.com/saziddeveloper](https://github.com/saziddeveloper)  
-🤵 LinkedIn: [linkedin.com/saziddeveloper](https://www.linkedin.com/in/saziddeveloper)
+📧 Email: [saifurssbd24@gmail.com](mailto:saifurssbd24@gmail.com)  
+🌐 Portfolio: [saifurdeveloper.github.io](https://saifurdeveloper.github.io)  
+👩‍💻 GitHub: [github.com/saifurdeveloper](https://github.com/saifurdeveloper)  
+🤵 Facebook: [facebook.com/saifur.rahman.67468](https://www.facebook.com/saifur.rahman.67468)
 
 Let's build something amazing together! 🚀
